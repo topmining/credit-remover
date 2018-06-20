@@ -1,0 +1,11 @@
+{
+    "coin": "esn",
+    "aliveBlocks": 10000,
+    "redisPool": {
+        "host": "127.0.0.1",
+        "port": 6379,
+        "password": ""
+    },
+    "backup": true,
+    "backupPath": "/root/credit-remover/backup/"
+}
